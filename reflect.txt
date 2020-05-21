@@ -1,0 +1,66 @@
+// Name: Arshdeep Singh
+// Seneca Student ID: 133462176
+// Seneca email: asingh568@myseneca.ca
+// Date of completion: 22 November 2018
+//
+// I confirm that I am the only author of this file
+// and the content was created entirely by me.
+
+The Project has made me learn and exercise quite
+a few key c++ object oriented concepts by simulating
+an assembly line where every single thing is an object
+that may or may not inherit from other classes.
+
+We summarised pretty much the entire course in this
+project by including all key concepts such as
+
+- Error Handling 
+	Throwing errors in milestone 1 when the extractToken
+	function can't find the token.
+	Throwing errors in milestone 2 when copy construction
+	of the CustomerOrder class is attempted.
+
+- Stream formatting
+	Formatting output in milestone 1 by using flags and
+	formatting functions like setw in the display function.
+- Parsing strings
+	Parsing strings in milestone 1 to extract useful
+	information to be used in instantiating class objects
+	in the constructors by using function such as stoi to
+	convert strings to integers etc.
+
+- Multi-dimensional dynamic arrays
+	Using a 2 dimensional Item info array of pointers to
+	work with dynamically allocated memory to store ItemInfo
+	struct objects was a great exercise in familiarizing 
+	myself with the logic and concepts behind working with
+	multi dimensional dynamic array.
+- Prohibiting copy semantics of a class
+	Using the delete keyword and throwing an error to prohibit
+	copy assignment and copy construction of class CustomerOrder.
+- Implementing Move semantics
+	Learning how to use the concepts of rvalue lvalue etc. by 
+	implementing move semantics like move assignment and move
+	constructor for the CustomerOrder class.
+
+- Inheritence
+	Implementing inheritence by creating a derived class Task 
+	from the base class Item and instantiating derived class
+	objects by explicitly calling the base class constructorin 
+	from the derived class's constructor in milestone 3.
+- Containers
+	Using containers such as vector and deque(double ended queue)
+	to easily manage an array of data and provide easier object
+	management methods like push_back(), pop_front() etc.
+- Iterators
+	Using iterators to easily traverse through the containers
+	by just using a for loop.
+- Overloading operators
+	Overloading the += operator to easily add a CustomerOrder
+	object to the task oject that calls the function.
+
+All in all, a slightly challenging project that perfectly encapsulated
+and strengthened the key concepts of the course.
+
+~Thank you.
+
